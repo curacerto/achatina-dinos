@@ -101,11 +101,11 @@ erDiagram
     </tr>
     <tr>
         <th>STATS COUNTER</th>
-        <th>RANGE 1 (001-059)</th>
-        <th>RANGE 2 (060-119)</th>
-        <th>RANGE 3 (120-159)</th>
-        <th>RANGE 4 (160-224)</th>
-        <th>RANGE 5 (225-255)</th>
+        <th>001-059</th>
+        <th>060-119</th>
+        <th>120-159</th>
+        <th>160-224</th>
+        <th>225-255</th>
    </tr>
     <tr>
         <th>2 STATS</th>
